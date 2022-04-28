@@ -1,7 +1,7 @@
 const express = require('express')
 const path = require('path')
 
-const app = express() CHECK
+const app = express() 
 
 // include and initialize the rollbar library with your access token
 var Rollbar = require('rollbar')
